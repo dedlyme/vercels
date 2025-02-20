@@ -14,15 +14,11 @@ function App() {
         <tbody>
           <tr>
               <td>feature</td>
-              <td>Funkcionalitāte</td>
+              <td>Funkcionālā iezīme</td>
           </tr>
           <tr>
               <td>Background</td>
               <td>Konteksts</td>
-          </tr>
-          <tr>
-              <td>rule</td>
-              <td>noteikums</td>
           </tr>
           <tr>
               <td>Scenario</td>
@@ -55,6 +51,10 @@ function App() {
           <tr>
               <td>But</td>
               <td>Bet</td>
+          </tr>
+          <tr>
+              <td>or</td>
+              <td>vai</td>
           </tr>
           </tbody>
       </table>
